@@ -1,12 +1,12 @@
 
 // Created Telegram bot token from bot father
-TOKEN=821000128:EXAMple_toKENBOTtokenI0WDiayAnxxqGFmyU
+TOKEN=1290727997:AAHuOZoDeLNiwkGdV6hbohDIgAlHBv2GOXU
 
 // url of your bot when hosted at heroku - for deployment use only
-URL='your-bot.herokuapp.com'
+URL='https://tespods.herokuapp.com/'
 
 //ake list of Userids Admins, seperated by spaces
-ADMIN=123456789 3445454656
+ADMIN=1261257884
 
 
 // round scheduler time specification - see cronjobs
@@ -24,11 +24,11 @@ DEBUG=True
 
 
 
-TOKEN=852053528:AAHL_ryUUJ1JOhenzmI0WDiayAnxxqGFmyU
+TOKEN=1290727997:AAHuOZoDeLNiwkGdV6hbohDIgAlHBv2GOXU
 
-URL='https://18480eca.ngrok.io/'
+URL='https://tespods.herokuapp.com/'
 
-ADMIN=1053579181 123455667
+ADMIN=1261257884
 
 CRON=10,20 10 * * *
 
@@ -36,4 +36,4 @@ SESSION_DURATION=10 10 30
 
 DEBUG=True
 
-DATABASE_URL=postgres://rfxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx8bf@ec2-35-171-31-33.compute-1.amazonaws.com:5432/dxxxxxxxxxx
+DATABASE_URL=postgres://agpxdlidaiihez:fcb1d16da5e4f3b683011554e1a7c40936ff178de5b81b0348c87cc95d8d384c@ec2-52-200-82-50.compute-1.amazonaws.com:5432/dd59aq4ln9ktvb
