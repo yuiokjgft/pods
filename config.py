@@ -11,9 +11,9 @@ from util import nextround_timer
 load_dotenv()
 
 ADMIN = []
-TOKEN = os.getenv("1290727997:AAHuOZoDeLNiwkGdV6hbohDIgAlHBv2GOXU")
-admin_env = os.getenv("1261257884")
-URL = os.getenv("https://tespods.herokuapp.com/")
+TOKEN = os.getenv("TOKEN")
+admin_env = os.getenv("ADMIN")
+URL = os.getenv("URL")
 DEBUG = (os.getenv("DEBUG") == 'True')
 
 if admin_env == None:
